@@ -1,0 +1,12 @@
+<!--Note:The template file will be copied to a new file. When you change the code of the template file you can create new file with this base code. -->
+<html>
+    <body>
+        <a href="http://iii9i.com">HelloWord</a>
+    </body>
+</html>
+dios
+
+
+
+ *My favorite app::html+css+js  https://itunes.apple.com/app/id908054939?mt=8
+Other's Tutorals:http://iii9i.com
